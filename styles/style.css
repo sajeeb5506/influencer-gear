@@ -1,0 +1,168 @@
+/* google-font */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500;600&family=Spline+Sans&display=swap');
+
+/* */
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+}
+
+/* header-ariea */
+.container {
+
+    background-color: #f8f1f1;
+
+
+}
+
+.header-aria {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.heading {
+    margin-left: 40px;
+    font-size: 24px;
+}
+
+.hrading-text {}
+
+.menu {
+    margin-right: 40px;
+}
+
+.menu ul li {
+    display: inline;
+
+}
+
+.menu ul li a {
+    text-decoration: none;
+    margin-right: 25px;
+    color: black;
+    font-size: 20px;
+}
+
+/* -----------
+banner-ariea
+------------- */
+.banner {
+    display: flex;
+    margin: 80px 70px;
+    justify-content: space-between;
+
+}
+
+.banner-heading {
+    font-size: 52px;
+}
+
+.banner-text p {
+    margin: 50px 0;
+}
+
+.banner-text a {
+    text-decoration: none;
+    color: white;
+
+}
+
+.btn {
+    background-color: #E02C6D;
+    padding: 10px 24px;
+    border-radius: 50px;
+    margin-top: 30px;
+
+}
+
+.btn:hover {
+    background-color: tomato;
+    transition: .5s;
+}
+
+.banner-camera {
+    height: 414px;
+    width: 440px;
+
+}
+
+.banner-img {
+    margin-left: 200px;
+}
+
+/* popular-colection */
+.popular-collection {
+    margin: 100px 150px;
+}
+
+.collection-titel {
+    font-size: 28px;
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+.collection-heading {
+    font-size: 28px;
+
+}
+
+.collection-ariea {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    row-gap: 40px;
+    column-gap: 20px;
+
+}
+
+.collection {
+    background-color: white;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.collection-img {
+    width: 300px;
+    height: 256px;
+}
+
+.price {
+    font-size: 24px;
+    color: #000000DE;
+
+}
+
+span {
+    color: #5E6366;
+    font-size: 14px;
+}
+
+.filled {
+    color: #FB8200;
+
+}
+
+.half {
+    color: #FB8200;
+}
+
+.detiles {
+    font-size: 14px;
+    font-weight: 700;
+    color: #787885;
+}
+
+.see-more {
+
+    display: flex;
+    margin-top: 25px;
+    justify-content: flex-end;
+}
+
+.btn-2 {
+    color: #E02C6D;
+    text-decoration: none;
+    margin-right: 0;
+
+}
