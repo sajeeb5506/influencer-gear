@@ -166,3 +166,58 @@ span {
     margin-right: 0;
 
 }
+
+.social-img {
+    border-radius: 10px;
+    width: 450px;
+    height: 100%;
+
+
+}
+
+.social-img-shado {
+    border-radius: 10px;
+    box-shadow: 10px 10px 10px gray;
+}
+
+/* footer-ariea */
+.footer {
+    background-color: #0A0826;
+
+
+}
+
+.footer-ariea p {
+    color: white;
+    text-align: center;
+
+
+
+}
+
+.footer-heading {
+    color: white;
+    text-align: center;
+    padding-top: 10px;
+}
+
+
+
+.icone {
+    padding-bottom: 20px;
+
+
+}
+
+.font-icon {
+    font-size: 32px;
+
+}
+
+/* media -queary */
+
+
+/* for- mobile-device */
+
+
+/* for tablate */
