@@ -10,10 +10,7 @@ body {
 
 /* header-ariea */
 .container {
-
     background-color: #f8f1f1;
-
-
 }
 
 .header-aria {
@@ -35,7 +32,6 @@ body {
 
 .menu ul li {
     display: inline;
-
 }
 
 .menu ul li a {
@@ -46,11 +42,11 @@ body {
     transition: .5s;
 }
 
+
+
 .menu ul li a:hover {
     color: #E02C6D;
     transform: scale(1.2);
-
-
 }
 
 /* -----------
@@ -82,7 +78,6 @@ banner-ariea
     padding: 10px 24px;
     border-radius: 50px;
     margin-top: 30px;
-
 }
 
 .btn:hover {
@@ -93,8 +88,6 @@ banner-ariea
 .banner-camera {
     height: 414px;
     width: 440px;
-
-
 }
 
 .banner-img {
@@ -192,7 +185,6 @@ span {
     border-radius: 10px;
     width: 450px;
     height: 100%;
-
 
 }
 
